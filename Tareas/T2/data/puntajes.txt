@@ -1,0 +1,7 @@
+usuario,puntaje
+Juan,500
+Diego,1000
+Pablo,67500
+Pedro,100
+Rena, 42983
+Pedro,100

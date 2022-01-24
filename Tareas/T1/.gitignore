@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+datos/ambientes.csv
+datos/arenas.csv
+datos/objetos.csv
+datos/tributos.csv
+Enunciado.pdf

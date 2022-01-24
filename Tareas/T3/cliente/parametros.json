@@ -1,0 +1,15 @@
+{
+    "ruta_ventana_inicio": "frontend/inicio.ui",
+    "ruta_ventana_principal": "frontend/principal.ui",
+    "ruta_ventana_reto": "frontend/reto.ui",
+    "ruta_ventana_juego": "frontend/juego.ui",
+    "ruta_ventana_final": "frontend/final.ui",
+    "ruta_avatar_1": "Sprites/Avatares/Avatar-1.png",
+    "ruta_avatar_2": "Sprites/Avatares/Avatar-2.png",
+    "ruta_reloj": "Sprites/Decoraciones/reloj.png",
+    "ruta_calavera_blanca": "Sprites/Decoraciones/calavera_blanca.png",
+    "ruta_canicas_1": "Sprites/Juego/canicas-1.png",
+    "ruta_canicas_2": "Sprites/Juego/canicas-2.png",
+    "host": "LAPTOP-H2GRQ1JR",
+    "port": 5150
+}
