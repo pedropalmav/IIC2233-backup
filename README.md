@@ -6,12 +6,6 @@ Este es el repositorio que utilizarás durante el resto del curso. Tanto profeso
 
 Todo el proceso de recolección de tareas y actividades está automatizado, por lo que **cualquier cambio inesperado en la estructura de tu repositorio podría tener consecuencias negativas para tu corrección y una penalización.**
 
-## Datos del alumno
-
-| Nombre | Mail UC | Usuario Discord |
-| :-: | :-: | :-: |
-| Pedro Palma | pedro.palma@uc.cl | pedropalma8#9145 |
-
 ## Sobre las entregas
 
 Para la corrección de tareas y actividades en clase tomaremos **el último commit presente en la branch `main` antes del plazo de entrega en GitHub.** Por esto, es importante que cada vez que quieras entregar un trabajo te asegures de que este se muestre en tu repositorio.
